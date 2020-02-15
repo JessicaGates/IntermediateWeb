@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <body>
-    Dr. Eleanor Gaye
+Dr. Eleanor Gaye
 Awesome Science faculty
 University of Awesome
 Bobtown, CA 99999,
@@ -19,38 +19,44 @@ Dover, CT9 XXX
 UK
 
 
-Re: Eileen Dover university application
+<h1> Re: Eileen Dover university application </h1>
 
 Dear Eileen,
 
 Thank you for your recent application to join us at the University of Awesome's science faculty to study as part of your PhD next year. I will answer your questions one by one, in the following sections.
 
-Starting dates
-
+<h2> Starting dates </h2>
+<p>
 We are happy to accommodate you starting your study with us at any time, however it would suit us better if you could start at the beginning of a semester; the start dates for each one are as follows:
-
-First semester: 9 September 2016
-Second semester: 15 January 2017
-Third semester: 2 May 2017
+</p>
+<ul>
+<li>First semester: 9 September 2016</li>
+<li>Second semester: 15 January 2017</li>
+<li>Third semester: 2 May 2017</li>
+</ul>
+<p>
 
 Please let me know if this is ok, and if so which start date you would prefer.
 
 You can find more information about important university dates on our website.
+</p>
 
 
-Subjects of study
-
+<h3> Subjects of study </h3>
+<p>
 At the Awesome Science Faculty, we have a pretty open-minded research facility — as long as the subjects fall somewhere in the realm of science and technology. You seem like an intelligent, dedicated researcher, and just the kind of person we'd like to have on our team. Saying that, of the ideas you submitted we were most intrigued by are as follows, in order of priority:
-
-Turning H2O into wine, and the health benefits of Resveratrol (C14H12O3.)
-Measuring the effect on performance of funk bassplayers at temperatures exceeding 30°C (86°F), when the audience size exponentially increases (effect of 3 × 103 increasing to 3 × 104.)
-HTML and CSS constructs for representing musical scores.
-
+<p>
+<ol>
+<li>Turning H2O into wine, and the health benefits of Resveratrol (C14H12O3.)</li>
+<li>Measuring the effect on performance of funk bassplayers at temperatures exceeding 30°C (86°F), when the audience size exponentially increases (effect of 3 × 103 increasing to 3 × 104.)</li>
+<li>HTML and CSS constructs for representing musical scores.</li>
+</ol>
+<p>
 So please can you provide more information on each of these subjects, including how long you'd expect the research to take, required staff and other resources, and anything else you think we'd need to know? Thanks.
+</p>
 
-
-Exotic dance moves
-
+<h4> Exotic dance moves </h4>
+<p>
 Yes, you are right! As part of my post-doctorate work, I did study exotic tribal dances. To answer your question, my favourite dances are as follows, with definitions:
 
 Polynesian chicken dance
@@ -61,7 +67,7 @@ Arctic robot dance
 An interesting example of historic misinformation, English explorers in the 1960s believed to have discovered a new dance style characterized by "robotic", stilted movements, being practiced by inhabitants of Northern Alaska and Canada. Later on however it was discovered that they were just moving like this because they were really cold.
 
 For more of my research, see my exotic dance research page.
-
+<p>
 Yours sincerely,
 Dr Eleanor Gaye
 
