@@ -1,53 +1,48 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
   <head>
     <meta charset="utf-8">
-    <link href="stylesheet.css" rel="stylesheet" type="text/css">
+    <meta name="author" content="Chris Mills">
+    <title> Week Three</title>
+    <link href="stylesheet.css" rel="stylesheet">
     </head>
     <body>
-Dr. Eleanor Gaye
-Awesome Science faculty
-University of Awesome
-Bobtown, CA 99999,
-USA
-Tel: 123-456-7890
-Email: no_reply@example.com
+      <a class="sender-column">
+      <p> <strong>Dr. Eleanor Gaye</strong> </p>
+      <p>Awesome Science faculty</p>
+      <p>University of Awesome</p>
+      <p>Bobtown, CA 99999,</p>
+      <p>USA</p>
+      <p> <strong>Tel:</strong> 123-456-7890</p>
+      <p> <strong>Email:</strong> no_reply@example.com </p> </a>
+      <p> <a class="sender-column"> </a> <time datetime="2016-01-20">20 January 2016 </time> </p>
+        <p> <strong>Miss Eileen Dover</strong> </p>
+        <p> 4321 Cliff Top Edge </p>
+        <p> Dover, CT9 XXX</p>
+        <p> UK</p>
+          <h1> Re: Eileen Dover university application </h1>
 
-20 January 2016
+<p> Dear Eileen,</p>
 
-Miss Eileen Dover
-4321 Cliff Top Edge
-Dover, CT9 XXX
-UK
-
-
-<h1> Re: Eileen Dover university application </h1>
-
-Dear Eileen,
-
-Thank you for your recent application to join us at the University of Awesome's science faculty to study as part of your PhD next year. I will answer your questions one by one, in the following sections.
+<p> Thank you for your recent application to join us at the University of Awesome's science faculty to study as part of your <abbr title="Doctor of Philosphy"> PhD </abbr> next year. I will answer your questions one by one, in the following sections.</p>
 
 <h2> Starting dates </h2>
 <p>
 We are happy to accommodate you starting your study with us at any time, however it would suit us better if you could start at the beginning of a semester; the start dates for each one are as follows:
 </p>
 <ul>
-<li>First semester: 9 September 2016</li>
-<li>Second semester: 15 January 2017</li>
-<li>Third semester: 2 May 2017</li>
+<li>First semester: <time datetime="2016-09-09> 9 September 2016</li>
+<li>Second semester: <time datetime="2017-01-15"> 15 January 2017</li>
+<li>Third semester: <time datetime="2017-05-02"> 2 May 2017</li>
 </ul>
 <p>
-
 Please let me know if this is ok, and if so which start date you would prefer.
-
-You can find more information about important university dates on our website.
 </p>
-
+<p> You can find more information about <a href="http://example.com" target="_blank" important university dates </a> on our website.</p>
 
 <h3> Subjects of study </h3>
 <p>
-At the Awesome Science Faculty, we have a pretty open-minded research facility — as long as the subjects fall somewhere in the realm of science and technology. You seem like an intelligent, dedicated researcher, and just the kind of person we'd like to have on our team. Saying that, of the ideas you submitted we were most intrigued by are as follows, in order of priority:
-<p>
+At the Awesome Science Faculty, we have a pretty open-minded research facility — as long as the subjects fall somewhere in the realm of science and technology. You seem like an intelligent, dedicated researcher, and just the kind of person we'd like to have on our team. Saying that, of the ideas you submitted we were most intrigued by are as follows, in order of priority:</p>
 <ol>
 <li>Turning H2O into wine, and the health benefits of Resveratrol (C14H12O3.)</li>
 <li>Measuring the effect on performance of funk bassplayers at temperatures exceeding 30°C (86°F), when the audience size exponentially increases (effect of 3 × 103 increasing to 3 × 104.)</li>
