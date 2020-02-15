@@ -2,6 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <link href="stylesheet.css" rel="stylesheet" type="text/css">
+    </head>
     <body>
 Dr. Eleanor Gaye
 Awesome Science faculty
@@ -73,3 +75,4 @@ Dr Eleanor Gaye
 
 University of Awesome motto: "Be awesome to each other." -- The memoirs of Bill S Preston, Esq
 </body>
+</html>
