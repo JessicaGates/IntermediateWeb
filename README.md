@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="author" content="Chris Mills">
-    <title> Week Three </title>
-    <link href="stylesheet.css" rel="stylesheet">
+    <title>Week Three</title>
+    <link  rel="stylesheet" href="stylesheet.css">
     </head>
     <body>
       <a class="sender-column">
