@@ -37,7 +37,7 @@ We are happy to accommodate you starting your study with us at any time, however
 <p>
 Please let me know if this is ok, and if so which start date you would prefer.
 </p>
-<p> You can find more information about <a href="http://example.com" target="_blank" important university dates </a> on our website.</p>
+<p> You can find more information about <a href="http://example.com" target="_blank"> important university dates </a> on our website.</p>
 
 <h2> Subjects of study </h2>
 <p>
